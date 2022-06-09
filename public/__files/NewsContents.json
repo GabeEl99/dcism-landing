@@ -1,0 +1,67 @@
+{
+    "news":[
+        {
+            "id" : "1",
+            "image" : "NewsImages/N1.jpg",
+            "title": "Limited Face-to-Face Graduation",
+            "desc" : "USC Admin has announced that it will cater a limited face-to-face graduation for graduating students AY 2021-2022",
+            "news_date": "May 18, 2022"
+        },
+        {
+            "id" : "2",
+            "image" : "NewsImages/N2.jpg",
+            "title": "No Class",
+            "desc" : "The University of San Carlos has announced-no work, no class at all levels",
+            "news_date": "May 06, 2022"
+        },
+        {
+            "id" : "3",
+            "image" : "NewsImages/N3.jpg",
+            "title": "Lexmark Student Job Fair",
+            "desc" : "Lexmark has launched a student Job Fair this year",
+            "news_date": "April 19, 2022"
+        },
+        {
+            "id" : "4",
+            "image" : "NewsImages/N4.jpg",
+            "title": "SAS Forum",
+            "desc" : "The School of Arts and Sciences (SAS) will have an online Graduate Academic Forum this coming May, 2022",
+            "news_date": "April 15, 2022"
+        },
+        {
+            "id" : "5",
+            "image" : "NewsImages/N5.jpg",
+            "title": "Hiring Full Stack Developers",
+            "desc" : "HATCHIT! Solutions is hiring full stack developers.",
+            "news_date": "May 16, 2022"
+        },
+        {
+            "id" : "6",
+            "image" : "NewsImages/N6.jpg",
+            "title": "USC SAS DAYS 2022",
+            "desc" : "School of Arts and Sciences is launching SAS DAYS 2022 with the theme- Navigating Educational Crossroads",
+            "news_date": "April 27, 2022"
+        },
+        {
+            "id" : "7",
+            "image" : "NewsImages/N7.png",
+            "title": "Announcement for Church goers",
+            "desc" : "There will be a holy mass on sunday, April 24, 2022 at 2:00 in the Afternoon.",
+            "news_date": "April 23, 2022"
+        },
+        {
+            "id" : "8",
+            "image" : "NewsImages/N8.png",
+            "title": "THESIS Submission Extended",
+            "desc" : "Thesis Submission is extended until May 20, 2022.",
+            "news_date": "May 5, 2022"
+        },
+        {
+            "id" : "9",
+            "image" : "NewsImages/N9.jpg",
+            "title": "DCISM Virtual Tour and Career Talk",
+            "desc" : "DCISM will have a Virtual Tour and Career Talk via Google Meet on the 22nd of April, 2022.",
+            "news_date": "April 22, 2022"
+        }
+    ]
+}

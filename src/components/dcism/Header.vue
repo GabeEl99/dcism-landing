@@ -13,7 +13,7 @@
                     <b-nav-item to="/"><span>HOME</span></b-nav-item>
                     <b-nav-item-dropdown text="OTHERS">
                         <b-dropdown-item to="/announcements">Announcements</b-dropdown-item>
-                        <b-dropdown-item to="/" target="_blank">News</b-dropdown-item>
+                        <b-dropdown-item to="/news">News</b-dropdown-item>
                         <b-dropdown-item to="/" target="_blank">Events</b-dropdown-item>
                         <b-dropdown-item to="/" target="_blank">FAQs</b-dropdown-item>
                     </b-nav-item-dropdown>

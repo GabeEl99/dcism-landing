@@ -40,6 +40,7 @@ import NotFound from '../pages/elements/404'
 // FOR DCISM ROUTES
 import Home from '../pages/Home'
 import Announcements from '../components/dcism/sections/announcements/AllAnnouncements'
+import News from '../components/dcism/sections/news/AllNews'
 
 export const routes = [
     {
@@ -242,4 +243,9 @@ export const routes = [
         name: 'NotFound',
         component: NotFound
     },
+    {
+        path:'/news',
+        name: 'News',
+        component: News,
+    }
 ];
